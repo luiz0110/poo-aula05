@@ -12,6 +12,7 @@ public class Programa {
       System.out.println("Escolha uma opção:");
       System.out.println("1 - Incluir pessoa");
       System.out.println("2 - Listar todos os cadastrados");
+      System.out.println("0 - Sair");
       System.out.print("Opção: ");
 
       opcao = sc.nextInt();
